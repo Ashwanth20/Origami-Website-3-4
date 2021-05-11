@@ -1,0 +1,70 @@
+h1{color : wheat}
+
+        .header
+        {
+            background-color: rgb(32, 30, 30);
+            justify-content: center;
+            text-emphasis-color: wheat;
+            text-align: center;
+        }
+        .main
+        {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 50px; 
+        }
+        .media
+        {
+            display: flex;
+            justify-content: center;
+        }
+        .word
+        {
+            text-align: center;
+        }
+        .Paper1
+        {
+            border: 5px solid black;
+            border-radius: 30px;
+            margin: 30px;
+            padding: 30px;
+            width: 440px;
+            background-Color : lightblue;
+        }
+        .Paper1 img
+        {
+            margin: 50px;
+            display: flex;
+            justify-content: center;
+        }
+        .Paper1 :hover 
+        {
+            opacity: 0.3;
+        }
+        .Paper2
+        {
+            border: 5px solid black;
+            border-radius: 30px;
+            margin-left: 290px;
+            padding: 30px;
+            width: 440px;
+            background-Color : lightblue;
+            justify-content: center;
+        }
+        .Paper2 img
+        {
+            margin: 50px;
+            display: flex;
+            justify-content: center;
+        }
+        .Paper2 :hover 
+        {
+            opacity: 0.3;
+        }
+        .button1
+        {
+            display: flex;
+            justify-content: center;
+        }
+
+
